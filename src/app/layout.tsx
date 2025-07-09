@@ -43,7 +43,7 @@ export default function RootLayout({
           <div className="flex items-center gap-4">
             <a
               className="decoration-zinc-500 underline-offset-4 transition-all sm:hover:underline dark:decoration-zinc-400"
-              href="https://github.com/LukeberryPi/blog"
+              href="https://github.com/doutoramon/blog"
               target="_blank"
             >
               Code
@@ -57,14 +57,14 @@ export default function RootLayout({
             </Link>
             <a
               className="decoration-zinc-500 underline-offset-4 transition-all sm:hover:underline dark:decoration-zinc-400"
-              href="https://x.com/LukeberryPi"
+              href="https://dev.to/ramonsilvadev"
               target="_blank"
             >
-              @LukeberryPi
+              @ramonsilvadev
             </a>
           </div>
           <blockquote className="text-zinc-800 dark:text-zinc-300">
-            Smile, you&apos;re alive :)
+            Everything is possible.
           </blockquote>
         </footer>
       </body>
