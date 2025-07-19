@@ -1,4 +1,8 @@
-import { SiGithub, SiLinkedin, SiYoutube } from "@icons-pack/react-simple-icons";
+import {
+  SiGithub,
+  SiLinkedin,
+  SiYoutube,
+} from "@icons-pack/react-simple-icons";
 import { ArrowUpRight, Copy, Download, Send } from "lucide-react";
 import Link from "next/link";
 import { ReactNode } from "react";
@@ -51,7 +55,7 @@ const externalLinks: Link[] = [
   {
     name: "GitHub",
     description: "steal my code",
-    url: "https://github.com/doutoramon",
+    url: "https://github.com/ramonsillva",
     icon: <SiGithub />,
   },
 ];
@@ -82,9 +86,8 @@ export default function HomePage() {
   return (
     <div className="flex flex-col gap-6">
       <p className="text-sm">
-        London-based Brazilian obsessed with UI for a decade. Working as a
-        Software Engineer for half that time. I love Raycast, TailwindCSS,
-        DJing, playing football, and creating pretty websites.
+        Software developer focused on Web/Mobile, I turn ideas into reality with
+        code.
       </p>
       <div className="divide-y divide-zinc-400 overflow-hidden rounded ring-1 ring-zinc-400 dark:divide-zinc-500 dark:ring-zinc-500">
         {externalLinks.map((link: Link) => (
@@ -115,8 +118,8 @@ export default function HomePage() {
         </div>
         <div className="flex flex-col gap-2">
           <a
-            href="/luke-berry-cv.pdf"
-            download="Luke-Berry-CV.pdf"
+            href="/ramon-cv.pdf"
+            download="Ramon-CV.pdf"
             className="flex flex-row items-center justify-center gap-3 rounded bg-sky-300 p-4 text-sky-800 ring-1 ring-sky-500 transition-all sm:hover:bg-sky-400 dark:bg-inherit dark:text-sky-500 dark:ring-sky-500 sm:sm:dark:hover:bg-zinc-800"
           >
             <span className="text-nowrap">Download my CV</span>
