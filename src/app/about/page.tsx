@@ -6,83 +6,37 @@ export default function AboutPage() {
       </h1>
       <article>
         <p>
-          I was born in São Paulo and moved to{" "}
-          <a href="https://en.wikipedia.org/wiki/Florian%C3%B3polis">
-            Florianópolis
-          </a>{" "}
-          as a 10 year old kid. I fell in love with the nature, sport and music
-          culture of the Magical Island.
+          Hello! Im Ramon Silva, a 29-year-old software developer with five
+          years dedicated to the tech market. My roots are in Brasília, but my
+          journey led me to live for 18 wonderful years on the Piauí coast, an
+          experience that shaped my perspective. I hold a degree in Information
+          Systems and have been working with development since my first
+          internships, through freelance projects, and into my current position.
         </p>
         <p>
-          In the next decade, I{" "}
-          <a href="https://open.spotify.com/artist/4ymHKBTThfeOL114lwCWPQ?si=c30897c35e404259">
-            became a singer-songwriter
-          </a>
-          , got a Karate blue belt, won back-to-back Carnavals with a samba
-          school and wasted thousands of hours playing League of Legends.
+          My great passion is turning ideas into reality through code,
+          developing robust solutions for both web and mobile. Im proficient in
+          the JavaScript ecosystem, with a special focus on Angular and mobile
+          development with Ionic.
         </p>
         <p>
-          Then I studied Economics at{" "}
-          <a href="https://en.wikipedia.org/wiki/Federal_University_of_Santa_Catarina">
-            Federal University of Santa Catarina
-          </a>
-          , mostly for my love for History and Math. I learned a lot of
-          Politics, Statistics and Macroeconomics.
+          Throughout my career, I ve built extensive experience, including the
+          migration of microservices to more efficient architectures, the
+          creation of complex and responsive layouts, and the development of
+          innovative solutions for major players in the financial sector. This
+          background has given me a comprehensive vision and the ability to work
+          on various fronts of a software project.
         </p>
         <p>
-          But I&apos;d spent too long studying models that weren&apos;t
-          applicable in real-life. I felt disconnected from my studies which led
-          to me dropping out after 2 years.
+          When Im not immersed in the world of code, youll likely find me
+          binge-watching my favorite anime, exploring new worlds in video games,
+          or following a good football match.
         </p>
         <p>
-          Then came my first contact with programming: as a Data Analyst at a
-          Tech startup. We used Microsoft Excel and Power BI to generate our
-          reports.
-        </p>
-        <p>
-          With millions of data entries, it wasn&apos;t long until my Dell
-          notebook became unusably slow. This led me to learn Python and Pandas
-          to better deal with datasets, as well as Selenium and pyautogui.
-        </p>
-        <p>
-          I&apos;ve always been obsessed with user interfaces. My friends
-          couldn&apos;t bear me pointing out broken buttons and ugly websites
-          all the time.
-        </p>
-        <p>
-          When I found out what HTML was, I did a deep dive into the Frontend. I
-          completed FreeCodeCamp&apos;s{" "}
-          <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
-            Responsive Web Design
-          </a>{" "}
-          and swiftly progressed to Javascript and React soon after.
-        </p>
-        <p>
-          I became more active within the Brazilian Dev community, sharing
-          quirky UI bugs and building my projects in public such as{" "}
-          <a href="https://phived.com">phived</a> and{" "}
-          <a href="https://css2wind.com">css2wind</a>. I collaborated with
-          hundreds of developers and contributed a lot to Open Source.
-        </p>
-        <p>
-          In 2024, I traveled to Torino, Italy to visit my dad. My life flipped
-          upside down and I ended up living in Málaga for a while. After I{" "}
-          <a href="/articles/how-not-to-get-a-job-in-spain">
-            failed to get a job
-          </a>
-          , I moved to the UK and landed a job in London, where I currently
-          live.
-        </p>
-        <p>
-          If you want to get in touch, send me a DM on{" "}
-          <a href="https://x.com/lukeberrypi">X</a> or an email{" "}
-          <a href="mailto:lukeberrypi@gmail.com">lukeberrypi@gmail.com</a>.
-        </p>
-        <p>Smile, you&apos;re alive :)</p>
-        <p>
-          Best,
-          <br />
-          Luke
+          If you want to get in touch, feel free to send me a DM on{" "}
+          <a href="https://www.linkedin.com/in/doutoramon/">LinkedIn</a> or an
+          email at{" "}
+          <a href="mailto:ramonsilvadev@gmail.com">ramonsilvadev@gmail.com</a>.
         </p>
       </article>
     </>
